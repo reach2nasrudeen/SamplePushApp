@@ -1,0 +1,20 @@
+
+Jsquid:S1444"6Make this "public static mGoogleApiClient" field final(İ•Úk
+Esquid:S1444"0Make this "public static mLongitude" field final(—˜Ò÷
+Ksquid:S1444"6Make this "public static mCurrentLocation" field final(ò§œÇ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(‰²Ş
+Hsquid:S1444".Make this "public static mContext" field final(Ê®âÿÿÿÿÿ
+Ssquid:S1444"9Make this "public static connectionCallbacks" field final(“¶ß—ıÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(¶ğÏ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+Msquid:S1444"3Make this "public static mLastLocation" field final(­Æî–úÿÿÿÿ
+Dsquid:S1444"/Make this "public static mLatitude" field final(”ìÿ÷
+Psquid:S1444"6Make this "public static locationListener" field final(çË¸ìúÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(‚Ü‘®ÿÿÿÿÿ
+Psquid:S1444"6Make this "public static mLocationRequest" field final(Ûí¤´üÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ç™ìÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+Usquid:S1444"@Make this "public static onConnectionFailedListener" field final(€¼®í
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(İËÕ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Šïˆ¯ÿÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(ìÍßÊùÿÿÿÿ
